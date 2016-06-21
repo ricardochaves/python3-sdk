@@ -5,7 +5,7 @@ This is NOT the official Python SDK for MercadoLibre's Platform.
 ## How do I install it?
 
        clone repository
-       https://github.com/mercadolibre/python-sdk.git
+       https://github.com/ricardochaves/python3-sdk.git
 
 ## How do I use it?
 
