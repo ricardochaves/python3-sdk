@@ -1,6 +1,6 @@
-# MercadoLibre's Python SDK
+# MercadoLibre's Python3 SDK
 
-This is the official Python SDK for MercadoLibre's Platform.
+This is NOT the official Python SDK for MercadoLibre's Platform.
 
 ## How do I install it?
 
